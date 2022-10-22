@@ -1,4 +1,4 @@
-ClusterClassification
+# ClusterClassification_Prac 
 
 During my unsupervised machine learning class, we explored different concepts. In this project, I'm exploring cluster classification. 
 Clustering consists of grouping a set of objects in such a way that objects in the same group or cluster are more similar to each other 
